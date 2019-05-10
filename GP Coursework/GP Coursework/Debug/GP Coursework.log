@@ -1,0 +1,13 @@
+﻿  Audio.cpp
+  Display.cpp
+  main.cpp
+  MainGame.cpp
+  Mesh.cpp
+  obj_loader.cpp
+c:\users\bivory200\desktop\gp final submission\gp coursework\gp coursework\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Overlay.cpp
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  GP Coursework.vcxproj -> C:\Users\bivory200\Desktop\GP Final Submission\GP Coursework\Debug\GP Coursework.exe
